@@ -76,8 +76,8 @@ There will be weekly homeworks.  You are allowed to drop 1 homework (this will b
 ## Grading
 - 15% for lab/recitation days. 
   - Each day is pass/fail (you turn it in on time or you don't), but you are allowed one free "droppped" lab
-- 30% Homework.
-  - Late homework is not accepted, but you are allowed one free "dropped" homework. Your lowest-scoring homework will be automatically dropped.
+- 33% Homework.
+  - Homework is not dropped, but theoretically you could earn up to 3% extra credit on the homework to count torwards your overall score.
 - 30% Midterms (2 midterms, each 15%)
 - 25% Final exam
 
